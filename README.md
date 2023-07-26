@@ -25,7 +25,7 @@ Make sure you have Python installed on your system. The script has been tested w
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/PDF-Grid-Composer.git
+   git clone https://github.com/faisal-saddique/PDF-Grid-Composer.git
    ```
 
 2. Install the required dependencies:

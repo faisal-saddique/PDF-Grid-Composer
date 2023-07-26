@@ -7,8 +7,7 @@ __pycache__/
 *.so
 
 # Test files
-input_pdfs
-output_pdfs
+orig_content
 
 # Distribution / packaging
 .Python
