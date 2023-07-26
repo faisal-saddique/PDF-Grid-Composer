@@ -52,7 +52,7 @@ Make sure you have Python installed on your system. The script has been tested w
 
 ## Example
 
-Suppose you have three PDF files named `document1.pdf`, `document2.pdf`, and `document3.pdf`. After running the script, the resulting output might look like this:
+Suppose you have a PDF file `document1.pdf` having 4 pages, after running the script, the resulting output might look like this:
 
 ![Example Output](/images/example_output.png)
 
